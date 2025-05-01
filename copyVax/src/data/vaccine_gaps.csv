@@ -1,0 +1,3 @@
+Country,ISO3,Region,DTP3_coverage,Gap,PrimaryBarrier,Priority,NextStepURL
+Afghanistan,AFG,Asia-Pacific,56,28,Cold chain,High,https://example.org/petition/afg
+Albania,ALB,Europe,98,2,Supply shortages,Medium,https://example.org/petition/alb

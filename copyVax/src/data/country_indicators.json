@@ -1,0 +1,1528 @@
+[
+    {
+      "Country": "Afghanistan",
+      "ISO3": "AFG",
+      "Region": "Asia-Pacific",
+      "vaccine_coverage": {
+        "DTP3": 66,
+        "MCV1": 65,
+        "Pol3": 64,
+        "HepB3": 62,
+        "Hib3": 62,
+        "PCV3": 60,
+        "RotaC": 55
+      }
+    },
+    {
+      "Country": "Albania",
+      "ISO3": "ALB",
+      "Region": "Europe",
+      "vaccine_coverage": {
+        "DTP3": 98,
+        "MCV1": 97,
+        "Pol3": 98,
+        "HepB3": 98,
+        "Hib3": 98,
+        "PCV3": 98,
+        "RotaC": 95
+      }
+    },
+    {
+      "Country": "Algeria",
+      "ISO3": "DZA",
+      "Region": "Middle East & North Africa",
+      "vaccine_coverage": {
+        "DTP3": 95,
+        "MCV1": 94,
+        "Pol3": 95,
+        "HepB3": 95,
+        "Hib3": 95,
+        "PCV3": 95,
+        "RotaC": 92
+      }
+    },
+    {
+      "Country": "Angola",
+      "ISO3": "AGO",
+      "Region": "Africa",
+      "vaccine_coverage": {
+        "DTP3": 65,
+        "MCV1": 64,
+        "Pol3": 65,
+        "HepB3": 65,
+        "Hib3": 65,
+        "PCV3": 65,
+        "RotaC": 60
+      }
+    },
+    {
+      "Country": "Argentina",
+      "ISO3": "ARG",
+      "Region": "Americas",
+      "vaccine_coverage": {
+        "DTP3": 89,
+        "MCV1": 88,
+        "Pol3": 89,
+        "HepB3": 89,
+        "Hib3": 89,
+        "PCV3": 89,
+        "RotaC": 85
+      }
+    },
+    {
+      "Country": "Armenia",
+      "ISO3": "ARM",
+      "Region": "Europe",
+      "vaccine_coverage": {
+        "DTP3": 92,
+        "MCV1": 95,
+        "Pol3": 92,
+        "HepB3": 92,
+        "Hib3": 92,
+        "PCV3": 91,
+        "RotaC": 90
+      }
+    },
+    {
+      "Country": "Australia",
+      "ISO3": "AUS",
+      "Region": "Asia-Pacific",
+      "vaccine_coverage": {
+        "DTP3": 95,
+        "MCV1": 95,
+        "Pol3": 95,
+        "HepB3": 95,
+        "Hib3": 95,
+        "PCV3": 95,
+        "RotaC": 94
+      }
+    },
+    {
+      "Country": "Austria",
+      "ISO3": "AUT",
+      "Region": "Europe",
+      "vaccine_coverage": {
+        "DTP3": 93,
+        "MCV1": 97,
+        "Pol3": 98,
+        "HepB3": 98,
+        "Hib3": 98,
+        "PCV3": 98,
+        "RotaC": 95
+      }
+    },
+    {
+      "Country": "Azerbaijan",
+      "ISO3": "AZE",
+      "Region": "Europe",
+      "vaccine_coverage": {
+        "DTP3": 98,
+        "MCV1": 97,
+        "Pol3": 98,
+        "HepB3": 98,
+        "Hib3": 98,
+        "PCV3": 98,
+        "RotaC": 95
+      }
+    },
+    {
+      "Country": "Bahamas",
+      "ISO3": "BHS",
+      "Region": "Americas",
+      "vaccine_coverage": {
+        "DTP3": 98,
+        "MCV1": 97,
+        "Pol3": 98,
+        "HepB3": 98,
+        "Hib3": 98,
+        "PCV3": 98,
+        "RotaC": 95
+      }
+    },
+    {
+      "Country": "Bahrain",
+      "ISO3": "BHR",
+      "Region": "Middle East & North Africa",
+      "vaccine_coverage": {
+        "DTP3": 98,
+        "MCV1": 97,
+        "Pol3": 98,
+        "HepB3": 98,
+        "Hib3": 98,
+        "PCV3": 98,
+        "RotaC": 95
+      }
+    },
+    {
+      "Country": "Bangladesh",
+      "ISO3": "BGD",
+      "Region": "Asia-Pacific",
+      "vaccine_coverage": {
+        "DTP3": 98,
+        "MCV1": 97,
+        "Pol3": 98,
+        "HepB3": 98,
+        "Hib3": 98,
+        "PCV3": 98,
+        "RotaC": 95
+      }
+    },
+    {
+      "Country": "Barbados",
+      "ISO3": "BRB",
+      "Region": "Americas",
+      "vaccine_coverage": {
+        "DTP3": 98,
+        "MCV1": 97,
+        "Pol3": 98,
+        "HepB3": 98,
+        "Hib3": 98,
+        "PCV3": 98,
+        "RotaC": 95
+      }
+    },
+    {
+      "Country": "Belarus",
+      "ISO3": "BLR",
+      "Region": "Europe",
+      "vaccine_coverage": {
+        "DTP3": 98,
+        "MCV1": 97,
+        "Pol3": 98,
+        "HepB3": 98,
+        "Hib3": 98,
+        "PCV3": 98,
+        "RotaC": 95
+      }
+    },
+    {
+      "Country": "Belgium",
+      "ISO3": "BEL",
+      "Region": "Europe",
+      "vaccine_coverage": {
+        "DTP3": 98,
+        "MCV1": 97,
+        "Pol3": 98,
+        "HepB3": 98,
+        "Hib3": 98,
+        "PCV3": 98,
+        "RotaC": 95
+      }
+    },
+    {
+      "Country": "Belize",
+      "ISO3": "BLZ",
+      "Region": "Americas",
+      "vaccine_coverage": {
+        "DTP3": 98,
+        "MCV1": 97,
+        "Pol3": 98,
+        "HepB3": 98,
+        "Hib3": 98,
+        "PCV3": 98,
+        "RotaC": 95
+      }
+    },
+    {
+      "Country": "Benin",
+      "ISO3": "BEN",
+      "Region": "Africa",
+      "vaccine_coverage": {
+        "DTP3": 98,
+        "MCV1": 97,
+        "Pol3": 98,
+        "HepB3": 98,
+        "Hib3": 98,
+        "PCV3": 98,
+        "RotaC": 95
+      }
+    },
+    {
+      "Country": "Bhutan",
+      "ISO3": "BTN",
+      "Region": "Asia-Pacific",
+      "vaccine_coverage": {
+        "DTP3": 98,
+        "MCV1": 97,
+        "Pol3": 98,
+        "HepB3": 98,
+        "Hib3": 98,
+        "PCV3": 98,
+        "RotaC": 95
+      }
+    },
+    {
+      "Country": "Bolivia",
+      "ISO3": "BOL",
+      "Region": "Americas",
+      "vaccine_coverage": {
+        "DTP3": 98,
+        "MCV1": 97,
+        "Pol3": 98,
+        "HepB3": 98,
+        "Hib3": 98,
+        "PCV3": 98,
+        "RotaC": 95
+      }
+    },
+    {
+      "Country": "Bosnia and Herzegovina",
+      "ISO3": "BIH",
+      "Region": "Europe",
+      "vaccine_coverage": {
+        "DTP3": 98,
+        "MCV1": 97,
+        "Pol3": 98,
+        "HepB3": 98,
+        "Hib3": 98,
+        "PCV3": 98,
+        "RotaC": 95
+      }
+    },
+    {
+      "Country": "Botswana",
+      "ISO3": "BWA",
+      "Region": "Africa",
+      "vaccine_coverage": {
+        "DTP3": 98,
+        "MCV1": 97,
+        "Pol3": 98,
+        "HepB3": 98,
+        "Hib3": 98,
+        "PCV3": 98,
+        "RotaC": 95
+      }
+    },
+    {
+      "Country": "Brazil",
+      "ISO3": "BRA",
+      "Region": "Americas",
+      "vaccine_coverage": {
+        "DTP3": 98,
+        "MCV1": 97,
+        "Pol3": 98,
+        "HepB3": 98,
+        "Hib3": 98,
+        "PCV3": 98,
+        "RotaC": 95
+      }
+    },
+    {
+      "Country": "Brunei",
+      "ISO3": "BRN",
+      "Region": "Asia-Pacific",
+      "vaccine_coverage": {
+        "DTP3": 98,
+        "MCV1": 97,
+        "Pol3": 98,
+        "HepB3": 98,
+        "Hib3": 98,
+        "PCV3": 98,
+        "RotaC": 95
+      }
+    },
+    {
+      "Country": "Bulgaria",
+      "ISO3": "BGR",
+      "Region": "Europe",
+      "vaccine_coverage": {
+        "DTP3": 98,
+        "MCV1": 97,
+        "Pol3": 98,
+        "HepB3": 98,
+        "Hib3": 98,
+        "PCV3": 98,
+        "RotaC": 95
+      }
+    },
+    {
+      "Country": "Burkina Faso",
+      "ISO3": "BFA",
+      "Region": "Africa",
+      "vaccine_coverage": {
+        "DTP3": 98,
+        "MCV1": 97,
+        "Pol3": 98,
+        "HepB3": 98,
+        "Hib3": 98,
+        "PCV3": 98,
+        "RotaC": 95
+      }
+    },
+    {
+      "Country": "Burundi",
+      "ISO3": "BDI",
+      "Region": "Africa",
+      "vaccine_coverage": {
+        "DTP3": 98,
+        "MCV1": 97,
+        "Pol3": 98,
+        "HepB3": 98,
+        "Hib3": 98,
+        "PCV3": 98,
+        "RotaC": 95
+      }
+    },
+    {
+      "Country": "Cambodia",
+      "ISO3": "KHM",
+      "Region": "Asia-Pacific",
+      "vaccine_coverage": {
+        "DTP3": 98,
+        "MCV1": 97,
+        "Pol3": 98,
+        "HepB3": 98,
+        "Hib3": 98,
+        "PCV3": 98,
+        "RotaC": 95
+      }
+    },
+    {
+      "Country": "Cameroon",
+      "ISO3": "CMR",
+      "Region": "Africa",
+      "vaccine_coverage": {
+        "DTP3": 98,
+        "MCV1": 97,
+        "Pol3": 98,
+        "HepB3": 98,
+        "Hib3": 98,
+        "PCV3": 98,
+        "RotaC": 95
+      }
+    },
+    {
+      "Country": "Canada",
+      "ISO3": "CAN",
+      "Region": "Americas",
+      "vaccine_coverage": {
+        "DTP3": 98,
+        "MCV1": 97,
+        "Pol3": 98,
+        "HepB3": 98,
+        "Hib3": 98,
+        "PCV3": 98,
+        "RotaC": 95
+      }
+    },
+    {
+      "Country": "Cape Verde",
+      "ISO3": "CPV",
+      "Region": "Africa",
+      "vaccine_coverage": {
+        "DTP3": 98,
+        "MCV1": 97,
+        "Pol3": 98,
+        "HepB3": 98,
+        "Hib3": 98,
+        "PCV3": 98,
+        "RotaC": 95
+      }
+    },
+    {
+      "Country": "Central African Republic",
+      "ISO3": "CAF",
+      "Region": "Africa",
+      "vaccine_coverage": {
+        "DTP3": 98,
+        "MCV1": 97,
+        "Pol3": 98,
+        "HepB3": 98,
+        "Hib3": 98,
+        "PCV3": 98,
+        "RotaC": 95
+      }
+    },
+    {
+      "Country": "Chad",
+      "ISO3": "TCD",
+      "Region": "Africa",
+      "vaccine_coverage": {
+        "DTP3": 98,
+        "MCV1": 97,
+        "Pol3": 98,
+        "HepB3": 98,
+        "Hib3": 98,
+        "PCV3": 98,
+        "RotaC": 95
+      }
+    },
+    {
+      "Country": "Chile",
+      "ISO3": "CHL",
+      "Region": "Americas",
+      "vaccine_coverage": {
+        "DTP3": 98,
+        "MCV1": 97,
+        "Pol3": 98,
+        "HepB3": 98,
+        "Hib3": 98,
+        "PCV3": 98,
+        "RotaC": 95
+      }
+    },
+    {
+      "Country": "China",
+      "ISO3": "CHN",
+      "Region": "Asia-Pacific",
+      "vaccine_coverage": {
+        "DTP3": 98,
+        "MCV1": 97,
+        "Pol3": 98,
+        "HepB3": 98,
+        "Hib3": 98,
+        "PCV3": 98,
+        "RotaC": 95
+      }
+    },
+    {
+      "Country": "Colombia",
+      "ISO3": "COL",
+      "Region": "Americas",
+      "vaccine_coverage": {
+        "DTP3": 98,
+        "MCV1": 97,
+        "Pol3": 98,
+        "HepB3": 98,
+        "Hib3": 98,
+        "PCV3": 98,
+        "RotaC": 95
+      }
+    },
+    {
+      "Country": "Comoros",
+      "ISO3": "COM",
+      "Region": "Africa",
+      "vaccine_coverage": {
+        "DTP3": 98,
+        "MCV1": 97,
+        "Pol3": 98,
+        "HepB3": 98,
+        "Hib3": 98,
+        "PCV3": 98,
+        "RotaC": 95
+      }
+    },
+    {
+      "Country": "Congo (Brazzaville)",
+      "ISO3": "COG",
+      "Region": "Africa",
+      "vaccine_coverage": {
+        "DTP3": 98,
+        "MCV1": 97,
+        "Pol3": 98,
+        "HepB3": 98,
+        "Hib3": 98,
+        "PCV3": 98,
+        "RotaC": 95
+      }
+    },
+    {
+      "Country": "Congo (Kinshasa)",
+      "ISO3": "COD",
+      "Region": "Africa",
+      "vaccine_coverage": {
+        "DTP3": 98,
+        "MCV1": 97,
+        "Pol3": 98,
+        "HepB3": 98,
+        "Hib3": 98,
+        "PCV3": 98,
+        "RotaC": 95
+      }
+    },
+    {
+      "Country": "Costa Rica",
+      "ISO3": "CRI",
+      "Region": "Americas",
+      "vaccine_coverage": {
+        "DTP3": 98,
+        "MCV1": 97,
+        "Pol3": 98,
+        "HepB3": 98,
+        "Hib3": 98,
+        "PCV3": 98,
+        "RotaC": 95
+      }
+    },
+    {
+      "Country": "Côte d'Ivoire",
+      "ISO3": "CIV",
+      "Region": "Africa",
+      "vaccine_coverage": {
+        "DTP3": 98,
+        "MCV1": 97,
+        "Pol3": 98,
+        "HepB3": 98,
+        "Hib3": 98,
+        "PCV3": 98,
+        "RotaC": 95
+      }
+    },
+    {
+      "Country": "Croatia",
+      "ISO3": "HRV",
+      "Region": "Europe",
+      "vaccine_coverage": {
+        "DTP3": 98,
+        "MCV1": 97,
+        "Pol3": 98,
+        "HepB3": 98,
+        "Hib3": 98,
+        "PCV3": 98,
+        "RotaC": 95
+      }
+    },
+    {
+      "Country": "Cuba",
+      "ISO3": "CUB",
+      "Region": "Americas",
+      "vaccine_coverage": {
+        "DTP3": 98,
+        "MCV1": 97,
+        "Pol3": 98,
+        "HepB3": 98,
+        "Hib3": 98,
+        "PCV3": 98,
+        "RotaC": 95
+      }
+    },
+    {
+      "Country": "Cyprus",
+      "ISO3": "CYP",
+      "Region": "Europe",
+      "vaccine_coverage": {
+        "DTP3": 98,
+        "MCV1": 97,
+        "Pol3": 98,
+        "HepB3": 98,
+        "Hib3": 98,
+        "PCV3": 98,
+        "RotaC": 95
+      }
+    },
+    {
+      "Country": "Czech Republic",
+      "ISO3": "CZE",
+      "Region": "Europe",
+      "vaccine_coverage": {
+        "DTP3": 98,
+        "MCV1": 97,
+        "Pol3": 98,
+        "HepB3": 98,
+        "Hib3": 98,
+        "PCV3": 98,
+        "RotaC": 95
+      }
+    },
+    {
+      "Country": "Denmark",
+      "ISO3": "DNK",
+      "Region": "Europe",
+      "vaccine_coverage": {
+        "DTP3": 98,
+        "MCV1": 97,
+        "Pol3": 98,
+        "HepB3": 98,
+        "Hib3": 98,
+        "PCV3": 98,
+        "RotaC": 95
+      }
+    },
+    {
+      "Country": "Djibouti",
+      "ISO3": "DJI",
+      "Region": "Africa",
+      "vaccine_coverage": {
+        "DTP3": 98,
+        "MCV1": 97,
+        "Pol3": 98,
+        "HepB3": 98,
+        "Hib3": 98,
+        "PCV3": 98,
+        "RotaC": 95
+      }
+    },
+    {
+      "Country": "Dominica",
+      "ISO3": "DMA",
+      "Region": "Americas",
+      "vaccine_coverage": {
+        "DTP3": 98,
+        "MCV1": 97,
+        "Pol3": 98,
+        "HepB3": 98,
+        "Hib3": 98,
+        "PCV3": 98,
+        "RotaC": 95
+      }
+    },
+    {
+      "Country": "Dominican Republic",
+      "ISO3": "DOM",
+      "Region": "Americas",
+      "vaccine_coverage": {
+        "DTP3": 98,
+        "MCV1": 97,
+        "Pol3": 98,
+        "HepB3": 98,
+        "Hib3": 98,
+        "PCV3": 98,
+        "RotaC": 95
+      }
+    },
+    {
+      "Country": "Ecuador",
+      "ISO3": "ECU",
+      "Region": "Americas",
+      "vaccine_coverage": {
+        "DTP3": 98,
+        "MCV1": 97,
+        "Pol3": 98,
+        "HepB3": 98,
+        "Hib3": 98,
+        "PCV3": 98,
+        "RotaC": 95
+      }
+    },
+    {
+      "Country": "Egypt",
+      "ISO3": "EGY",
+      "Region": "Middle East & North Africa",
+      "vaccine_coverage": {
+        "DTP3": 98,
+        "MCV1": 97,
+        "Pol3": 98,
+        "HepB3": 98,
+        "Hib3": 98,
+        "PCV3": 98,
+        "RotaC": 95
+      }
+    },
+    {
+      "Country": "El Salvador",
+      "ISO3": "SLV",
+      "Region": "Americas",
+      "vaccine_coverage": {
+        "DTP3": 98,
+        "MCV1": 97,
+        "Pol3": 98,
+        "HepB3": 98,
+        "Hib3": 98,
+        "PCV3": 98,
+        "RotaC": 95
+      }
+    },
+    {
+      "Country": "Equatorial Guinea",
+      "ISO3": "GNQ",
+      "Region": "Africa",
+      "vaccine_coverage": {
+        "DTP3": 98,
+        "MCV1": 97,
+        "Pol3": 98,
+        "HepB3": 98,
+        "Hib3": 98,
+        "PCV3": 98,
+        "RotaC": 95
+      }
+    },
+    {
+      "Country": "Eritrea",
+      "ISO3": "ERI",
+      "Region": "Africa",
+      "vaccine_coverage": {
+        "DTP3": 98,
+        "MCV1": 97,
+        "Pol3": 98,
+        "HepB3": 98,
+        "Hib3": 98,
+        "PCV3": 98,
+        "RotaC": 95
+      }
+    },
+    {
+      "Country": "Estonia",
+      "ISO3": "EST",
+      "Region": "Europe",
+      "vaccine_coverage": {
+        "DTP3": 98,
+        "MCV1": 97,
+        "Pol3": 98,
+        "HepB3": 98,
+        "Hib3": 98,
+        "PCV3": 98,
+        "RotaC": 95
+      }
+    },
+    {
+      "Country": "Eswatini",
+      "ISO3": "SWZ",
+      "Region": "Africa",
+      "vaccine_coverage": {
+        "DTP3": 98,
+        "MCV1": 97,
+        "Pol3": 98,
+        "HepB3": 98,
+        "Hib3": 98,
+        "PCV3": 98,
+        "RotaC": 95
+      }
+    },
+    {
+      "Country": "Ethiopia",
+      "ISO3": "ETH",
+      "Region": "Africa",
+      "vaccine_coverage": {
+        "DTP3": 98,
+        "MCV1": 97,
+        "Pol3": 98,
+        "HepB3": 98,
+        "Hib3": 98,
+        "PCV3": 98,
+        "RotaC": 95
+      }
+    },
+    {
+      "Country": "Fiji",
+      "ISO3": "FJI",
+      "Region": "Asia-Pacific",
+      "vaccine_coverage": {
+        "DTP3": 98,
+        "MCV1": 97,
+        "Pol3": 98,
+        "HepB3": 98,
+        "Hib3": 98,
+        "PCV3": 98,
+        "RotaC": 95
+      }
+    },
+    {
+      "Country": "Finland",
+      "ISO3": "FIN",
+      "Region": "Europe",
+      "vaccine_coverage": {
+        "DTP3": 98,
+        "MCV1": 97,
+        "Pol3": 98,
+        "HepB3": 98,
+        "Hib3": 98,
+        "PCV3": 98,
+        "RotaC": 95
+      }
+    },
+    {
+      "Country": "France",
+      "ISO3": "FRA",
+      "Region": "Europe",
+      "vaccine_coverage": {
+        "DTP3": 98,
+        "MCV1": 97,
+        "Pol3": 98,
+        "HepB3": 98,
+        "Hib3": 98,
+        "PCV3": 98,
+        "RotaC": 95
+      }
+    },
+    {
+      "Country": "Gabon",
+      "ISO3": "GAB",
+      "Region": "Africa",
+      "vaccine_coverage": {
+        "DTP3": 98,
+        "MCV1": 97,
+        "Pol3": 98,
+        "HepB3": 98,
+        "Hib3": 98,
+        "PCV3": 98,
+        "RotaC": 95
+      }
+    },
+    {
+      "Country": "Gambia",
+      "ISO3": "GMB",
+      "Region": "Africa",
+      "vaccine_coverage": {
+        "DTP3": 98,
+        "MCV1": 97,
+        "Pol3": 98,
+        "HepB3": 98,
+        "Hib3": 98,
+        "PCV3": 98,
+        "RotaC": 95
+      }
+    },
+    {
+      "Country": "Georgia",
+      "ISO3": "GEO",
+      "Region": "Europe",
+      "vaccine_coverage": {
+        "DTP3": 98,
+        "MCV1": 97,
+        "Pol3": 98,
+        "HepB3": 98,
+        "Hib3": 98,
+        "PCV3": 98,
+        "RotaC": 95
+      }
+    },
+    {
+      "Country": "Germany",
+      "ISO3": "DEU",
+      "Region": "Europe",
+      "vaccine_coverage": {
+        "DTP3": 98,
+        "MCV1": 97,
+        "Pol3": 98,
+        "HepB3": 98,
+        "Hib3": 98,
+        "PCV3": 98,
+        "RotaC": 95
+      }
+    },
+    {
+      "Country": "Ghana",
+      "ISO3": "GHA",
+      "Region": "Africa",
+      "vaccine_coverage": {
+        "DTP3": 98,
+        "MCV1": 97,
+        "Pol3": 98,
+        "HepB3": 98,
+        "Hib3": 98,
+        "PCV3": 98,
+        "RotaC": 95
+      }
+    },
+    {
+      "Country": "Greece",
+      "ISO3": "GRC",
+      "Region": "Europe",
+      "vaccine_coverage": {
+        "DTP3": 98,
+        "MCV1": 97,
+        "Pol3": 98,
+        "HepB3": 98,
+        "Hib3": 98,
+        "PCV3": 98,
+        "RotaC": 95
+      }
+    },
+    {
+      "Country": "Grenada",
+      "ISO3": "GRD",
+      "Region": "Americas",
+      "vaccine_coverage": {
+        "DTP3": 98,
+        "MCV1": 97,
+        "Pol3": 98,
+        "HepB3": 98,
+        "Hib3": 98,
+        "PCV3": 98,
+        "RotaC": 95
+      }
+    },
+    {
+      "Country": "Guatemala",
+      "ISO3": "GTM",
+      "Region": "Americas",
+      "vaccine_coverage": {
+        "DTP3": 98,
+        "MCV1": 97,
+        "Pol3": 98,
+        "HepB3": 98,
+        "Hib3": 98,
+        "PCV3": 98,
+        "RotaC": 95
+      }
+    },
+    {
+      "Country": "Guinea",
+      "ISO3": "GIN",
+      "Region": "Africa",
+      "vaccine_coverage": {
+        "DTP3": 98,
+        "MCV1": 97,
+        "Pol3": 98,
+        "HepB3": 98,
+        "Hib3": 98,
+        "PCV3": 98,
+        "RotaC": 95
+      }
+    },
+    {
+      "Country": "Guinea-Bissau",
+      "ISO3": "GNB",
+      "Region": "Africa",
+      "vaccine_coverage": {
+        "DTP3": 98,
+        "MCV1": 97,
+        "Pol3": 98,
+        "HepB3": 98,
+        "Hib3": 98,
+        "PCV3": 98,
+        "RotaC": 95
+      }
+    },
+    {
+      "Country": "Guyana",
+      "ISO3": "GUY",
+      "Region": "Americas",
+      "vaccine_coverage": {
+        "DTP3": 98,
+        "MCV1": 97,
+        "Pol3": 98,
+        "HepB3": 98,
+        "Hib3": 98,
+        "PCV3": 98,
+        "RotaC": 95
+      }
+    },
+    {
+      "Country": "Haiti",
+      "ISO3": "HTI",
+      "Region": "Americas",
+      "vaccine_coverage": {
+        "DTP3": 98,
+        "MCV1": 97,
+        "Pol3": 98,
+        "HepB3": 98,
+        "Hib3": 98,
+        "PCV3": 98,
+        "RotaC": 95
+      }
+    },
+    {
+      "Country": "Honduras",
+      "ISO3": "HND",
+      "Region": "Americas",
+      "vaccine_coverage": {
+        "DTP3": 98,
+        "MCV1": 97,
+        "Pol3": 98,
+        "HepB3": 98,
+        "Hib3": 98,
+        "PCV3": 98,
+        "RotaC": 95
+      }
+    },
+    {
+      "Country": "Hungary",
+      "ISO3": "HUN",
+      "Region": "Europe",
+      "vaccine_coverage": {
+        "DTP3": 98,
+        "MCV1": 97,
+        "Pol3": 98,
+        "HepB3": 98,
+        "Hib3": 98,
+        "PCV3": 98,
+        "RotaC": 95
+      }
+    },
+    {
+      "Country": "Iceland",
+      "ISO3": "ISL",
+      "Region": "Europe",
+      "vaccine_coverage": {
+        "DTP3": 98,
+        "MCV1": 97,
+        "Pol3": 98,
+        "HepB3": 98,
+        "Hib3": 98,
+        "PCV3": 98,
+        "RotaC": 95
+      }
+    },
+    {
+      "Country": "India",
+      "ISO3": "IND",
+      "Region": "Asia-Pacific",
+      "vaccine_coverage": {
+        "DTP3": 98,
+        "MCV1": 97,
+        "Pol3": 98,
+        "HepB3": 98,
+        "Hib3": 98,
+        "PCV3": 98,
+        "RotaC": 95
+      }
+    },
+    {
+      "Country": "Indonesia",
+      "ISO3": "IDN",
+      "Region": "Asia-Pacific",
+      "vaccine_coverage": {
+        "DTP3": 98,
+        "MCV1": 97,
+        "Pol3": 98,
+        "HepB3": 98,
+        "Hib3": 98,
+        "PCV3": 98,
+        "RotaC": 95
+      }
+    },
+    {
+      "Country": "Iran",
+      "ISO3": "IRN",
+      "Region": "Middle East & North Africa",
+      "vaccine_coverage": {
+        "DTP3": 98,
+        "MCV1": 97,
+        "Pol3": 98,
+        "HepB3": 98,
+        "Hib3": 98,
+        "PCV3": 98,
+        "RotaC": 95
+      }
+    },
+    {
+      "Country": "Iraq",
+      "ISO3": "IRQ",
+      "Region": "Middle East & North Africa",
+      "vaccine_coverage": {
+        "DTP3": 98,
+        "MCV1": 97,
+        "Pol3": 98,
+        "HepB3": 98,
+        "Hib3": 98,
+        "PCV3": 98,
+        "RotaC": 95
+      }
+    },
+    {
+      "Country": "Ireland",
+      "ISO3": "IRL",
+      "Region": "Europe",
+      "vaccine_coverage": {
+        "DTP3": 98,
+        "MCV1": 97,
+        "Pol3": 98,
+        "HepB3": 98,
+        "Hib3": 98,
+        "PCV3": 98,
+        "RotaC": 95
+      }
+    },
+    {
+      "Country": "Israel",
+      "ISO3": "ISR",
+      "Region": "Middle East & North Africa",
+      "vaccine_coverage": {
+        "DTP3": 98,
+        "MCV1": 97,
+        "Pol3": 98,
+        "HepB3": 98,
+        "Hib3": 98,
+        "PCV3": 98,
+        "RotaC": 95
+      }
+    },
+    {
+      "Country": "Italy",
+      "ISO3": "ITA",
+      "Region": "Europe",
+      "vaccine_coverage": {
+        "DTP3": 98,
+        "MCV1": 97,
+        "Pol3": 98,
+        "HepB3": 98,
+        "Hib3": 98,
+        "PCV3": 98,
+        "RotaC": 95
+      }
+    },
+    {
+      "Country": "Jamaica",
+      "ISO3": "JAM",
+      "Region": "Americas",
+      "vaccine_coverage": {
+        "DTP3": 98,
+        "MCV1": 97,
+        "Pol3": 98,
+        "HepB3": 98,
+        "Hib3": 98,
+        "PCV3": 98,
+        "RotaC": 95
+      }
+    },
+    {
+      "Country": "Japan",
+      "ISO3": "JPN",
+      "Region": "Asia-Pacific",
+      "vaccine_coverage": {
+        "DTP3": 98,
+        "MCV1": 97,
+        "Pol3": 98,
+        "HepB3": 98,
+        "Hib3": 98,
+        "PCV3": 98,
+        "RotaC": 95
+      }
+    },
+    {
+      "Country": "Jordan",
+      "ISO3": "JOR",
+      "Region": "Middle East & North Africa",
+      "vaccine_coverage": {
+        "DTP3": 98,
+        "MCV1": 97,
+        "Pol3": 98,
+        "HepB3": 98,
+        "Hib3": 98,
+        "PCV3": 98,
+        "RotaC": 95
+      }
+    },
+    {
+      "Country": "Kazakhstan",
+      "ISO3": "KAZ",
+      "Region": "Asia-Pacific",
+      "vaccine_coverage": {
+        "DTP3": 98,
+        "MCV1": 97,
+        "Pol3": 98,
+        "HepB3": 98,
+        "Hib3": 98,
+        "PCV3": 98,
+        "RotaC": 95
+      }
+    },
+    {
+      "Country": "Kenya",
+      "ISO3": "KEN",
+      "Region": "Africa",
+      "vaccine_coverage": {
+        "DTP3": 98,
+        "MCV1": 97,
+        "Pol3": 98,
+        "HepB3": 98,
+        "Hib3": 98,
+        "PCV3": 98,
+        "RotaC": 95
+      }
+    },
+    {
+      "Country": "Kiribati",
+      "ISO3": "KIR",
+      "Region": "Asia-Pacific",
+      "vaccine_coverage": {
+        "DTP3": 98,
+        "MCV1": 97,
+        "Pol3": 98,
+        "HepB3": 98,
+        "Hib3": 98,
+        "PCV3": 98,
+        "RotaC": 95
+      }
+    },
+    {
+      "Country": "Kosovo",
+      "ISO3": "XKX",
+      "Region": "Europe",
+      "vaccine_coverage": {
+        "DTP3": 98,
+        "MCV1": 97,
+        "Pol3": 98,
+        "HepB3": 98,
+        "Hib3": 98,
+        "PCV3": 98,
+        "RotaC": 95
+      }
+    },
+    {
+      "Country": "Kuwait",
+      "ISO3": "KWT",
+      "Region": "Middle East & North Africa",
+      "vaccine_coverage": {
+        "DTP3": 98,
+        "MCV1": 97,
+        "Pol3": 98,
+        "HepB3": 98,
+        "Hib3": 98,
+        "PCV3": 98,
+        "RotaC": 95
+      }
+    },
+    {
+      "Country": "Kyrgyzstan",
+      "ISO3": "KGZ",
+      "Region": "Asia-Pacific",
+      "vaccine_coverage": {
+        "DTP3": 98,
+        "MCV1": 97,
+        "Pol3": 98,
+        "HepB3": 98,
+        "Hib3": 98,
+        "PCV3": 98,
+        "RotaC": 95
+      }
+    },
+    {
+      "Country": "Laos",
+      "ISO3": "LAO",
+      "Region": "Asia-Pacific",
+      "vaccine_coverage": {
+        "DTP3": 98,
+        "MCV1": 97,
+        "Pol3": 98,
+        "HepB3": 98,
+        "Hib3": 98,
+        "PCV3": 98,
+        "RotaC": 95
+      }
+    },
+    {
+      "Country": "Latvia",
+      "ISO3": "LVA",
+      "Region": "Europe",
+      "vaccine_coverage": {
+        "DTP3": 98,
+        "MCV1": 97,
+        "Pol3": 98,
+        "HepB3": 98,
+        "Hib3": 98,
+        "PCV3": 98,
+        "RotaC": 95
+      }
+    },
+    {
+      "Country": "Lebanon",
+      "ISO3": "LBN",
+      "Region": "Middle East & North Africa",
+      "vaccine_coverage": {
+        "DTP3": 98,
+        "MCV1": 97,
+        "Pol3": 98,
+        "HepB3": 98,
+        "Hib3": 98,
+        "PCV3": 98,
+        "RotaC": 95
+      }
+    },
+    {
+      "Country": "Lesotho",
+      "ISO3": "LSO",
+      "Region": "Africa",
+      "vaccine_coverage": {
+        "DTP3": 98,
+        "MCV1": 97,
+        "Pol3": 98,
+        "HepB3": 98,
+        "Hib3": 98,
+        "PCV3": 98,
+        "RotaC": 95
+      }
+    },
+    {
+      "Country": "Liberia",
+      "ISO3": "LBR",
+      "Region": "Africa",
+      "vaccine_coverage": {
+        "DTP3": 98,
+        "MCV1": 97,
+        "Pol3": 98,
+        "HepB3": 98,
+        "Hib3": 98,
+        "PCV3": 98,
+        "RotaC": 95
+      }
+    },
+    {
+      "Country": "Libya",
+      "ISO3": "LBY",
+      "Region": "Middle East & North Africa",
+      "vaccine_coverage": {
+        "DTP3": 98,
+        "MCV1": 97,
+        "Pol3": 98,
+        "HepB3": 98,
+        "Hib3": 98,
+        "PCV3": 98,
+        "RotaC": 95
+      }
+    },
+    {
+      "Country": "Liechtenstein",
+      "ISO3": "LIE",
+      "Region": "Europe",
+      "vaccine_coverage": {
+        "DTP3": 98,
+        "MCV1": 97,
+        "Pol3": 98,
+        "HepB3": 98,
+        "Hib3": 98,
+        "PCV3": 98,
+        "RotaC": 95
+      }
+    },
+    {
+      "Country": "Lithuania",
+      "ISO3": "LTU",
+      "Region": "Europe",
+      "vaccine_coverage": {
+        "DTP3": 98,
+        "MCV1": 97,
+        "Pol3": 98,
+        "HepB3": 98,
+        "Hib3": 98,
+        "PCV3": 98,
+        "RotaC": 95
+      }
+    },
+    {
+      "Country": "Luxembourg",
+      "ISO3": "LUX",
+      "Region": "Europe",
+      "vaccine_coverage": {
+        "DTP3": 98,
+        "MCV1": 97,
+        "Pol3": 98,
+        "HepB3": 98,
+        "Hib3": 98,
+        "PCV3": 98,
+        "RotaC": 95
+      }
+    },
+    {
+      "Country": "Madagascar",
+      "ISO3": "MDG",
+      "Region": "Africa",
+      "vaccine_coverage": {
+        "DTP3": 98,
+        "MCV1": 97,
+        "Pol3": 98,
+        "HepB3": 98,
+        "Hib3": 98,
+        "PCV3": 98,
+        "RotaC": 95
+      }
+    },
+    {
+      "Country": "Malawi",
+      "ISO3": "MWI",
+      "Region": "Africa",
+      "vaccine_coverage": {
+        "DTP3": 98,
+        "MCV1": 97,
+        "Pol3": 98,
+        "HepB3": 98,
+        "Hib3": 98,
+        "PCV3": 98,
+        "RotaC": 95
+      }
+    },
+    {
+      "Country": "Malaysia",
+      "ISO3": "MYS",
+      "Region": "Asia-Pacific",
+      "vaccine_coverage": {
+        "DTP3": 98,
+        "MCV1": 97,
+        "Pol3": 98,
+        "HepB3": 98,
+        "Hib3": 98,
+        "PCV3": 98,
+        "RotaC": 95
+      }
+    },
+    {
+      "Country": "Maldives",
+      "ISO3": "MDV",
+      "Region": "Asia-Pacific",
+      "vaccine_coverage": {
+        "DTP3": 98,
+        "MCV1": 97,
+        "Pol3": 98,
+        "HepB3": 98,
+        "Hib3": 98,
+        "PCV3": 98,
+        "RotaC": 95
+      }
+    },
+    {
+      "Country": "Mali",
+      "ISO3": "MLI",
+      "Region": "Africa",
+      "vaccine_coverage": {
+        "DTP3": 98,
+        "MCV1": 97,
+        "Pol3": 98,
+        "HepB3": 98,
+        "Hib3": 98,
+        "PCV3": 98,
+        "RotaC": 95
+      }
+    },
+    {
+      "Country": "Malta",
+      "ISO3": "MLT",
+      "Region": "Europe",
+      "vaccine_coverage": {
+        "DTP3": 98,
+        "MCV1": 97,
+        "Pol3": 98,
+        "HepB3": 98,
+        "Hib3": 98,
+        "PCV3": 98,
+        "RotaC": 95
+      }
+    },
+    {
+      "Country": "Marshall Islands",
+      "ISO3": "MHL",
+      "Region": "Asia-Pacific",
+      "vaccine_coverage": {
+        "DTP3": 98,
+        "MCV1": 97,
+        "Pol3": 98,
+        "HepB3": 98,
+        "Hib3": 98,
+        "PCV3": 98,
+        "RotaC": 95
+      }
+    },
+    {
+      "Country": "Mauritania",
+      "ISO3": "MRT",
+      "Region": "Africa",
+      "vaccine_coverage": {
+        "DTP3": 98,
+        "MCV1": 97,
+        "Pol3": 98,
+        "HepB3": 98,
+        "Hib3": 98,
+        "PCV3": 98,
+        "RotaC": 95
+      }
+    },
+    {
+      "Country": "Mauritius",
+      "ISO3": "MUS",
+      "Region": "Africa",
+      "vaccine_coverage": {
+        "DTP3": 98,
+        "MCV1": 97,
+        "Pol3": 98,
+        "HepB3": 98,
+        "Hib3": 98,
+        "PCV3": 98,
+        "RotaC": 95
+      }
+    },
+    {
+      "Country": "Mexico",
+      "ISO3": "MEX",
+      "Region": "Americas",
+      "vaccine_coverage": {
+        "DTP3": 98,
+        "MCV1": 97,
+        "Pol3": 98,
+        "HepB3": 98,
+        "Hib3": 98,
+        "PCV3": 98,
+        "RotaC": 95
+      }
+    }
+]
